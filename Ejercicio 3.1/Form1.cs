@@ -17,7 +17,7 @@ namespace Ejercicio_3._1
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) // JULIAN PEREZ PEREÑA DAW 2023 
         {
             string textoTelegrama;
             char tipoTelegrama = 'o'; // defino 'o' como ordinario por defecto
