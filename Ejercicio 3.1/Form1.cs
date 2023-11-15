@@ -46,7 +46,7 @@ namespace Ejercicio_3._1
             else
                 coste = 0;
 
-            txtPrecio.Text = coste.ToString() + " euros";
+            txtPrecio.Text = coste.ToString() + " euros";// JULIAN PEREZ PEREÑA DAW 2023
         }
     }
 }
